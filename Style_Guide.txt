@@ -1,0 +1,5 @@
+Welcome to the Styles Guide Project - Codecademy Challenge Project.
+
+This is a mock style guide for a website.
+
+By G Chirgwin
